@@ -1,3 +1,34 @@
 body, html {
-  font-size: 12px;
+  font-size: 62.5%;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: darkgreen;
+  font-size: 3rem;
+}
+
+.nav {
+  color: red;
+  font-size: 2.5rem;
+
+}
+
+ul.nav li{
+  list-style: none;
+  display: inline-block;
+}
+
+.ballin-paragraph {
+  font-size: 1.5rem;
+  color: green;
+}
+
+.not-ballin-paragraph {
+  font-size: .75rem;
+  color: green;
+}
+
+img {
+  float: right;
 }
